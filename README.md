@@ -1,7 +1,8 @@
 # 📊 Dicas e Funções do Excel
 
 <p align="center">
-  <img src="Logo_EXCEL/EXCEL.png" alt="Ícone do Excel" width="140">
+  <img src="Logo_Excel/Excel
+    .png" alt="Ícone do Excel" width="140">
 </p>
 
 Este repositório reúne uma coleção de dicas, exemplos e funções essenciais do Microsoft Excel, voltadas para quem deseja dominar a ferramenta e aplicá-la de forma prática no dia a dia, seja nos estudos, no trabalho ou em projetos pessoais.
